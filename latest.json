@@ -1,7 +1,8 @@
 [
   {
-    "nome": "Tesouro Educa+ 2030",
+    "nome": "Tesouro Educa+ 2026",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2026-01-15",
     "data_vencimento": "2030-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.99,
@@ -11,8 +12,9 @@
     "pu_base_manha": 3809.04
   },
   {
-    "nome": "Tesouro Educa+ 2031",
+    "nome": "Tesouro Educa+ 2027",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2027-01-15",
     "data_vencimento": "2031-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.85,
@@ -22,8 +24,9 @@
     "pu_base_manha": 3540.52
   },
   {
-    "nome": "Tesouro Educa+ 2032",
+    "nome": "Tesouro Educa+ 2028",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2028-01-15",
     "data_vencimento": "2032-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.76,
@@ -33,8 +36,9 @@
     "pu_base_manha": 3292.36
   },
   {
-    "nome": "Tesouro Educa+ 2033",
+    "nome": "Tesouro Educa+ 2029",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2029-01-15",
     "data_vencimento": "2033-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.71,
@@ -44,8 +48,9 @@
     "pu_base_manha": 3060.75
   },
   {
-    "nome": "Tesouro Educa+ 2034",
+    "nome": "Tesouro Educa+ 2030",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2030-01-15",
     "data_vencimento": "2034-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.65,
@@ -55,8 +60,9 @@
     "pu_base_manha": 2849.17
   },
   {
-    "nome": "Tesouro Educa+ 2035",
+    "nome": "Tesouro Educa+ 2031",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2031-01-15",
     "data_vencimento": "2035-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.59,
@@ -66,8 +72,9 @@
     "pu_base_manha": 2655.31
   },
   {
-    "nome": "Tesouro Educa+ 2036",
+    "nome": "Tesouro Educa+ 2032",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2032-01-15",
     "data_vencimento": "2036-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.52,
@@ -77,8 +84,9 @@
     "pu_base_manha": 2479.47
   },
   {
-    "nome": "Tesouro Educa+ 2037",
+    "nome": "Tesouro Educa+ 2033",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2033-01-15",
     "data_vencimento": "2037-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.45,
@@ -88,8 +96,9 @@
     "pu_base_manha": 2318.46
   },
   {
-    "nome": "Tesouro Educa+ 2038",
+    "nome": "Tesouro Educa+ 2034",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2034-01-15",
     "data_vencimento": "2038-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.38,
@@ -99,8 +108,9 @@
     "pu_base_manha": 2171.1
   },
   {
-    "nome": "Tesouro Educa+ 2039",
+    "nome": "Tesouro Educa+ 2035",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2035-01-15",
     "data_vencimento": "2039-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.33,
@@ -110,8 +120,9 @@
     "pu_base_manha": 2031.44
   },
   {
-    "nome": "Tesouro Educa+ 2040",
+    "nome": "Tesouro Educa+ 2036",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2036-01-15",
     "data_vencimento": "2040-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.3,
@@ -121,8 +132,9 @@
     "pu_base_manha": 1897.77
   },
   {
-    "nome": "Tesouro Educa+ 2041",
+    "nome": "Tesouro Educa+ 2037",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2037-01-15",
     "data_vencimento": "2041-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.26,
@@ -132,8 +144,9 @@
     "pu_base_manha": 1776
   },
   {
-    "nome": "Tesouro Educa+ 2042",
+    "nome": "Tesouro Educa+ 2038",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2038-01-15",
     "data_vencimento": "2042-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.23,
@@ -143,8 +156,9 @@
     "pu_base_manha": 1661.1
   },
   {
-    "nome": "Tesouro Educa+ 2043",
+    "nome": "Tesouro Educa+ 2039",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2039-01-15",
     "data_vencimento": "2043-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.2,
@@ -154,8 +168,9 @@
     "pu_base_manha": 1554.35
   },
   {
-    "nome": "Tesouro Educa+ 2044",
+    "nome": "Tesouro Educa+ 2040",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2040-01-15",
     "data_vencimento": "2044-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.17,
@@ -165,8 +180,9 @@
     "pu_base_manha": 1455.4
   },
   {
-    "nome": "Tesouro Educa+ 2045",
+    "nome": "Tesouro Educa+ 2041",
     "data_inicio": "2023-08-01",
+    "data_conversao": "2041-01-15",
     "data_vencimento": "2045-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.14,
@@ -176,8 +192,9 @@
     "pu_base_manha": 1363.6
   },
   {
-    "nome": "Tesouro Educa+ 2046",
+    "nome": "Tesouro Educa+ 2042",
     "data_inicio": "2024-02-05",
+    "data_conversao": "2042-01-15",
     "data_vencimento": "2046-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.11,
@@ -187,8 +204,9 @@
     "pu_base_manha": 1278.4
   },
   {
-    "nome": "Tesouro Educa+ 2047",
+    "nome": "Tesouro Educa+ 2043",
     "data_inicio": "2025-02-03",
+    "data_conversao": "2043-01-15",
     "data_vencimento": "2047-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.09,
@@ -200,6 +218,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-07-01",
     "data_base": "2005-06-30",
     "taxa_compra_manha": 15.53,
@@ -211,6 +230,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-12-01",
     "data_base": "2005-11-30",
     "taxa_compra_manha": 15.02,
@@ -222,6 +242,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2006",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2006-12-01",
     "data_base": "2006-11-30",
     "taxa_compra_manha": 11.15,
@@ -233,6 +254,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2008",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2008-04-01",
     "data_base": "2008-03-31",
     "taxa_compra_manha": 0,
@@ -244,6 +266,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2011",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2011-03-01",
     "data_base": "2011-02-28",
     "taxa_compra_manha": 1.79,
@@ -255,6 +278,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2017",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2017-07-01",
     "data_base": "2017-06-30",
     "taxa_compra_manha": 7.92,
@@ -266,6 +290,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2021",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2021-04-01",
     "data_base": "2021-03-31",
     "taxa_compra_manha": 4.96,
@@ -277,6 +302,7 @@
   {
     "nome": "Tesouro IGPM+ com Juros Semestrais 2031",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2031-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.96,
@@ -288,6 +314,7 @@
   {
     "nome": "Tesouro IPCA+ 2015",
     "data_inicio": "2005-07-18",
+    "data_conversao": "",
     "data_vencimento": "2015-05-15",
     "data_base": "2015-05-14",
     "taxa_compra_manha": 3.49,
@@ -299,6 +326,7 @@
   {
     "nome": "Tesouro IPCA+ 2019",
     "data_inicio": "2013-01-14",
+    "data_conversao": "",
     "data_vencimento": "2019-05-15",
     "data_base": "2019-05-14",
     "taxa_compra_manha": -0.94,
@@ -310,6 +338,7 @@
   {
     "nome": "Tesouro IPCA+ 2024",
     "data_inicio": "2005-07-18",
+    "data_conversao": "",
     "data_vencimento": "2024-08-15",
     "data_base": "2024-08-14",
     "taxa_compra_manha": 5.97,
@@ -321,6 +350,7 @@
   {
     "nome": "Tesouro IPCA+ 2026",
     "data_inicio": "2020-02-10",
+    "data_conversao": "",
     "data_vencimento": "2026-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 10.3,
@@ -332,6 +362,7 @@
   {
     "nome": "Tesouro IPCA+ 2029",
     "data_inicio": "2023-01-09",
+    "data_conversao": "",
     "data_vencimento": "2029-05-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.82,
@@ -343,6 +374,7 @@
   {
     "nome": "Tesouro IPCA+ 2035",
     "data_inicio": "2010-03-08",
+    "data_conversao": "",
     "data_vencimento": "2035-05-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.42,
@@ -354,6 +386,7 @@
   {
     "nome": "Tesouro IPCA+ 2040",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2040-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.24,
@@ -365,6 +398,7 @@
   {
     "nome": "Tesouro IPCA+ 2045",
     "data_inicio": "2017-02-08",
+    "data_conversao": "",
     "data_vencimento": "2045-05-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.08,
@@ -376,6 +410,7 @@
   {
     "nome": "Tesouro IPCA+ 2050",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2050-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.03,
@@ -387,6 +422,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2006",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2006-08-15",
     "data_base": "2006-08-14",
     "taxa_compra_manha": 10.68,
@@ -398,6 +434,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2007",
     "data_inicio": "2005-07-01",
+    "data_conversao": "",
     "data_vencimento": "2007-05-15",
     "data_base": "2007-05-14",
     "taxa_compra_manha": 7.6,
@@ -409,6 +446,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2008",
     "data_inicio": "2005-09-27",
+    "data_conversao": "",
     "data_vencimento": "2008-08-15",
     "data_base": "2008-08-14",
     "taxa_compra_manha": 6.17,
@@ -420,6 +458,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2009",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2009-05-15",
     "data_base": "2009-05-14",
     "taxa_compra_manha": 3.58,
@@ -431,6 +470,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2010",
     "data_inicio": "2006-01-18",
+    "data_conversao": "",
     "data_vencimento": "2010-08-15",
     "data_base": "2010-08-12",
     "taxa_compra_manha": 10.54,
@@ -442,6 +482,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2011",
     "data_inicio": "2006-03-13",
+    "data_conversao": "",
     "data_vencimento": "2011-05-15",
     "data_base": "2011-05-12",
     "taxa_compra_manha": 1.15,
@@ -453,6 +494,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2012",
     "data_inicio": "2007-05-21",
+    "data_conversao": "",
     "data_vencimento": "2012-08-15",
     "data_base": "2012-08-14",
     "taxa_compra_manha": 3.03,
@@ -464,6 +506,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2013",
     "data_inicio": "2008-01-29",
+    "data_conversao": "",
     "data_vencimento": "2013-05-15",
     "data_base": "2013-05-14",
     "taxa_compra_manha": 0.57,
@@ -475,6 +518,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2015",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2015-05-15",
     "data_base": "2015-05-14",
     "taxa_compra_manha": 3.49,
@@ -486,6 +530,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2017",
     "data_inicio": "2007-05-21",
+    "data_conversao": "",
     "data_vencimento": "2017-05-15",
     "data_base": "2017-05-12",
     "taxa_compra_manha": 9.1,
@@ -497,6 +542,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2020",
     "data_inicio": "2009-03-02",
+    "data_conversao": "",
     "data_vencimento": "2020-08-15",
     "data_base": "2020-08-14",
     "taxa_compra_manha": -1.78,
@@ -508,6 +554,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2024",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2024-08-15",
     "data_base": "2024-08-14",
     "taxa_compra_manha": 5.97,
@@ -519,6 +566,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2026",
     "data_inicio": "2016-01-26",
+    "data_conversao": "",
     "data_vencimento": "2026-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 10.3,
@@ -530,6 +578,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2030",
     "data_inicio": "2020-02-10",
+    "data_conversao": "",
     "data_vencimento": "2030-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.77,
@@ -541,6 +590,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2032",
     "data_inicio": "2022-02-21",
+    "data_conversao": "",
     "data_vencimento": "2032-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.72,
@@ -552,6 +602,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2035",
     "data_inicio": "2006-04-12",
+    "data_conversao": "",
     "data_vencimento": "2035-05-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.5,
@@ -563,6 +614,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2040",
     "data_inicio": "2020-02-10",
+    "data_conversao": "",
     "data_vencimento": "2040-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.35,
@@ -574,6 +626,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2045",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2045-05-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.24,
@@ -585,6 +638,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2050",
     "data_inicio": "2012-06-01",
+    "data_conversao": "",
     "data_vencimento": "2050-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.2,
@@ -596,6 +650,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2055",
     "data_inicio": "2020-02-10",
+    "data_conversao": "",
     "data_vencimento": "2055-05-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.15,
@@ -607,6 +662,7 @@
   {
     "nome": "Tesouro IPCA+ com Juros Semestrais 2060",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2060-08-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.19,
@@ -618,6 +674,7 @@
   {
     "nome": "Tesouro Prefixado 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-01-04",
     "data_base": "2005-01-03",
     "taxa_compra_manha": 17.74,
@@ -629,6 +686,7 @@
   {
     "nome": "Tesouro Prefixado 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-04-01",
     "data_base": "2005-03-31",
     "taxa_compra_manha": 19.33,
@@ -640,6 +698,7 @@
   {
     "nome": "Tesouro Prefixado 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-07-01",
     "data_base": "2005-06-30",
     "taxa_compra_manha": 19.93,
@@ -651,6 +710,7 @@
   {
     "nome": "Tesouro Prefixado 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-10-01",
     "data_base": "2005-09-29",
     "taxa_compra_manha": 19.56,
@@ -662,6 +722,7 @@
   {
     "nome": "Tesouro Prefixado 2006",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2006-01-01",
     "data_base": "2005-12-28",
     "taxa_compra_manha": 18.14,
@@ -673,6 +734,7 @@
   {
     "nome": "Tesouro Prefixado 2006",
     "data_inicio": "2005-02-16",
+    "data_conversao": "",
     "data_vencimento": "2006-04-01",
     "data_base": "2006-03-30",
     "taxa_compra_manha": 16.57,
@@ -684,6 +746,7 @@
   {
     "nome": "Tesouro Prefixado 2006",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2006-07-01",
     "data_base": "2006-06-29",
     "taxa_compra_manha": 15.19,
@@ -695,6 +758,7 @@
   {
     "nome": "Tesouro Prefixado 2006",
     "data_inicio": "2005-06-07",
+    "data_conversao": "",
     "data_vencimento": "2006-10-01",
     "data_base": "2006-09-28",
     "taxa_compra_manha": 14.16,
@@ -706,6 +770,7 @@
   {
     "nome": "Tesouro Prefixado 2007",
     "data_inicio": "2005-02-16",
+    "data_conversao": "",
     "data_vencimento": "2007-01-01",
     "data_base": "2006-12-27",
     "taxa_compra_manha": 13.17,
@@ -717,6 +782,7 @@
   {
     "nome": "Tesouro Prefixado 2007",
     "data_inicio": "2005-09-27",
+    "data_conversao": "",
     "data_vencimento": "2007-04-01",
     "data_base": "2007-03-29",
     "taxa_compra_manha": 12.68,
@@ -728,6 +794,7 @@
   {
     "nome": "Tesouro Prefixado 2007",
     "data_inicio": "2005-06-07",
+    "data_conversao": "",
     "data_vencimento": "2007-07-01",
     "data_base": "2007-06-28",
     "taxa_compra_manha": 11.87,
@@ -739,6 +806,7 @@
   {
     "nome": "Tesouro Prefixado 2007",
     "data_inicio": "2006-02-21",
+    "data_conversao": "",
     "data_vencimento": "2007-10-01",
     "data_base": "2007-09-28",
     "taxa_compra_manha": 11.13,
@@ -750,6 +818,7 @@
   {
     "nome": "Tesouro Prefixado 2008",
     "data_inicio": "2005-07-26",
+    "data_conversao": "",
     "data_vencimento": "2008-01-01",
     "data_base": "2007-12-27",
     "taxa_compra_manha": 11.12,
@@ -761,6 +830,7 @@
   {
     "nome": "Tesouro Prefixado 2008",
     "data_inicio": "2006-08-10",
+    "data_conversao": "",
     "data_vencimento": "2008-04-01",
     "data_base": "2008-03-31",
     "taxa_compra_manha": 11.18,
@@ -772,6 +842,7 @@
   {
     "nome": "Tesouro Prefixado 2008",
     "data_inicio": "2005-12-15",
+    "data_conversao": "",
     "data_vencimento": "2008-07-01",
     "data_base": "2008-06-30",
     "taxa_compra_manha": 12.14,
@@ -783,6 +854,7 @@
   {
     "nome": "Tesouro Prefixado 2008",
     "data_inicio": "2007-06-04",
+    "data_conversao": "",
     "data_vencimento": "2008-10-01",
     "data_base": "2008-09-30",
     "taxa_compra_manha": 13.62,
@@ -794,6 +866,7 @@
   {
     "nome": "Tesouro Prefixado 2009",
     "data_inicio": "2006-05-11",
+    "data_conversao": "",
     "data_vencimento": "2009-01-01",
     "data_base": "2008-12-29",
     "taxa_compra_manha": 13.67,
@@ -805,6 +878,7 @@
   {
     "nome": "Tesouro Prefixado 2009",
     "data_inicio": "2008-03-13",
+    "data_conversao": "",
     "data_vencimento": "2009-04-01",
     "data_base": "2009-03-31",
     "taxa_compra_manha": 11.16,
@@ -816,6 +890,7 @@
   {
     "nome": "Tesouro Prefixado 2009",
     "data_inicio": "2007-04-23",
+    "data_conversao": "",
     "data_vencimento": "2009-07-01",
     "data_base": "2009-06-30",
     "taxa_compra_manha": 9.16,
@@ -827,6 +902,7 @@
   {
     "nome": "Tesouro Prefixado 2009",
     "data_inicio": "2007-07-11",
+    "data_conversao": "",
     "data_vencimento": "2009-10-01",
     "data_base": "2009-09-30",
     "taxa_compra_manha": 8.67,
@@ -838,6 +914,7 @@
   {
     "nome": "Tesouro Prefixado 2010",
     "data_inicio": "2007-10-10",
+    "data_conversao": "",
     "data_vencimento": "2010-01-01",
     "data_base": "2009-12-29",
     "taxa_compra_manha": 8.63,
@@ -849,6 +926,7 @@
   {
     "nome": "Tesouro Prefixado 2010",
     "data_inicio": "2008-03-13",
+    "data_conversao": "",
     "data_vencimento": "2010-07-01",
     "data_base": "2010-06-30",
     "taxa_compra_manha": 10.14,
@@ -860,6 +938,7 @@
   {
     "nome": "Tesouro Prefixado 2011",
     "data_inicio": "2008-10-09",
+    "data_conversao": "",
     "data_vencimento": "2011-01-01",
     "data_base": "2010-12-29",
     "taxa_compra_manha": 10.64,
@@ -871,6 +950,7 @@
   {
     "nome": "Tesouro Prefixado 2011",
     "data_inicio": "2010-07-01",
+    "data_conversao": "",
     "data_vencimento": "2011-07-01",
     "data_base": "2011-06-30",
     "taxa_compra_manha": 12.23,
@@ -882,6 +962,7 @@
   {
     "nome": "Tesouro Prefixado 2012",
     "data_inicio": "2009-03-02",
+    "data_conversao": "",
     "data_vencimento": "2012-01-01",
     "data_base": "2011-12-30",
     "taxa_compra_manha": 10.92,
@@ -893,6 +974,7 @@
   {
     "nome": "Tesouro Prefixado 2013",
     "data_inicio": "2010-01-04",
+    "data_conversao": "",
     "data_vencimento": "2013-01-01",
     "data_base": "2012-12-28",
     "taxa_compra_manha": 7.15,
@@ -904,6 +986,7 @@
   {
     "nome": "Tesouro Prefixado 2014",
     "data_inicio": "2011-01-03",
+    "data_conversao": "",
     "data_vencimento": "2014-01-01",
     "data_base": "2013-12-31",
     "taxa_compra_manha": 9.92,
@@ -915,6 +998,7 @@
   {
     "nome": "Tesouro Prefixado 2015",
     "data_inicio": "2011-01-03",
+    "data_conversao": "",
     "data_vencimento": "2015-01-01",
     "data_base": "2014-12-31",
     "taxa_compra_manha": 11.69,
@@ -926,6 +1010,7 @@
   {
     "nome": "Tesouro Prefixado 2016",
     "data_inicio": "2012-02-01",
+    "data_conversao": "",
     "data_vencimento": "2016-01-01",
     "data_base": "2015-12-31",
     "taxa_compra_manha": 14.25,
@@ -937,6 +1022,7 @@
   {
     "nome": "Tesouro Prefixado 2017",
     "data_inicio": "2013-01-14",
+    "data_conversao": "",
     "data_vencimento": "2017-01-01",
     "data_base": "2016-12-30",
     "taxa_compra_manha": 13.62,
@@ -948,6 +1034,7 @@
   {
     "nome": "Tesouro Prefixado 2018",
     "data_inicio": "2014-01-27",
+    "data_conversao": "",
     "data_vencimento": "2018-01-01",
     "data_base": "2017-12-27",
     "taxa_compra_manha": 6.9,
@@ -959,6 +1046,7 @@
   {
     "nome": "Tesouro Prefixado 2019",
     "data_inicio": "2016-01-26",
+    "data_conversao": "",
     "data_vencimento": "2019-01-01",
     "data_base": "2018-12-28",
     "taxa_compra_manha": 6.54,
@@ -970,6 +1058,7 @@
   {
     "nome": "Tesouro Prefixado 2020",
     "data_inicio": "2017-02-08",
+    "data_conversao": "",
     "data_vencimento": "2020-01-01",
     "data_base": "2019-12-30",
     "taxa_compra_manha": 4.53,
@@ -981,6 +1070,7 @@
   {
     "nome": "Tesouro Prefixado 2021",
     "data_inicio": "2015-03-10",
+    "data_conversao": "",
     "data_vencimento": "2021-01-01",
     "data_base": "2020-12-30",
     "taxa_compra_manha": 1.96,
@@ -992,6 +1082,7 @@
   {
     "nome": "Tesouro Prefixado 2022",
     "data_inicio": "2019-02-01",
+    "data_conversao": "",
     "data_vencimento": "2022-01-01",
     "data_base": "2021-12-30",
     "taxa_compra_manha": 9.22,
@@ -1003,6 +1094,7 @@
   {
     "nome": "Tesouro Prefixado 2023",
     "data_inicio": "2016-01-26",
+    "data_conversao": "",
     "data_vencimento": "2023-01-01",
     "data_base": "2022-12-29",
     "taxa_compra_manha": 14.08,
@@ -1014,6 +1106,7 @@
   {
     "nome": "Tesouro Prefixado 2024",
     "data_inicio": "2021-02-08",
+    "data_conversao": "",
     "data_vencimento": "2024-07-01",
     "data_base": "2024-06-28",
     "taxa_compra_manha": 10.44,
@@ -1025,6 +1118,7 @@
   {
     "nome": "Tesouro Prefixado 2025",
     "data_inicio": "2018-02-07",
+    "data_conversao": "",
     "data_vencimento": "2025-01-01",
     "data_base": "2024-12-30",
     "taxa_compra_manha": 12.2,
@@ -1036,6 +1130,7 @@
   {
     "nome": "Tesouro Prefixado 2026",
     "data_inicio": "2020-02-10",
+    "data_conversao": "",
     "data_vencimento": "2026-01-01",
     "data_base": "2025-12-30",
     "taxa_compra_manha": 14.94,
@@ -1047,6 +1142,7 @@
   {
     "nome": "Tesouro Prefixado 2027",
     "data_inicio": "2024-02-05",
+    "data_conversao": "",
     "data_vencimento": "2027-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.67,
@@ -1058,6 +1154,7 @@
   {
     "nome": "Tesouro Prefixado 2028",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2028-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13,
@@ -1069,6 +1166,7 @@
   {
     "nome": "Tesouro Prefixado 2029",
     "data_inicio": "2022-02-21",
+    "data_conversao": "",
     "data_vencimento": "2029-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.09,
@@ -1080,6 +1178,7 @@
   {
     "nome": "Tesouro Prefixado 2031",
     "data_inicio": "2024-02-05",
+    "data_conversao": "",
     "data_vencimento": "2031-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.45,
@@ -1091,6 +1190,7 @@
   {
     "nome": "Tesouro Prefixado 2032",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2032-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.61,
@@ -1102,6 +1202,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2008",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2008-01-01",
     "data_base": "2007-12-27",
     "taxa_compra_manha": 11.12,
@@ -1113,6 +1214,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2010",
     "data_inicio": "2005-07-26",
+    "data_conversao": "",
     "data_vencimento": "2010-01-01",
     "data_base": "2009-12-29",
     "taxa_compra_manha": 8.63,
@@ -1124,6 +1226,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2010",
     "data_inicio": "2007-02-15",
+    "data_conversao": "",
     "data_vencimento": "2010-07-01",
     "data_base": "2010-06-30",
     "taxa_compra_manha": 10.14,
@@ -1135,6 +1238,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2011",
     "data_inicio": "2007-07-11",
+    "data_conversao": "",
     "data_vencimento": "2011-01-01",
     "data_base": "2010-12-29",
     "taxa_compra_manha": 10.64,
@@ -1146,6 +1250,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2012",
     "data_inicio": "2005-11-16",
+    "data_conversao": "",
     "data_vencimento": "2012-01-01",
     "data_base": "2011-12-30",
     "taxa_compra_manha": 10.92,
@@ -1157,6 +1262,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2013",
     "data_inicio": "2007-07-11",
+    "data_conversao": "",
     "data_vencimento": "2013-01-01",
     "data_base": "2012-12-28",
     "taxa_compra_manha": 7.16,
@@ -1168,6 +1274,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2014",
     "data_inicio": "2006-10-02",
+    "data_conversao": "",
     "data_vencimento": "2014-01-01",
     "data_base": "2013-12-31",
     "taxa_compra_manha": 9.93,
@@ -1179,6 +1286,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2017",
     "data_inicio": "2007-01-17",
+    "data_conversao": "",
     "data_vencimento": "2017-01-01",
     "data_base": "2016-12-30",
     "taxa_compra_manha": 13.62,
@@ -1190,6 +1298,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2021",
     "data_inicio": "2010-01-22",
+    "data_conversao": "",
     "data_vencimento": "2021-01-01",
     "data_base": "2020-12-30",
     "taxa_compra_manha": 2.23,
@@ -1201,6 +1310,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2023",
     "data_inicio": "2012-06-01",
+    "data_conversao": "",
     "data_vencimento": "2023-01-01",
     "data_base": "2022-12-29",
     "taxa_compra_manha": 14.08,
@@ -1212,6 +1322,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2025",
     "data_inicio": "2014-01-27",
+    "data_conversao": "",
     "data_vencimento": "2025-01-01",
     "data_base": "2024-12-30",
     "taxa_compra_manha": 12.19,
@@ -1223,6 +1334,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2027",
     "data_inicio": "2016-01-26",
+    "data_conversao": "",
     "data_vencimento": "2027-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.64,
@@ -1234,6 +1346,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2029",
     "data_inicio": "2018-02-07",
+    "data_conversao": "",
     "data_vencimento": "2029-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.12,
@@ -1245,6 +1358,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2031",
     "data_inicio": "2020-02-10",
+    "data_conversao": "",
     "data_vencimento": "2031-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.51,
@@ -1256,6 +1370,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2033",
     "data_inicio": "2022-02-21",
+    "data_conversao": "",
     "data_vencimento": "2033-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.67,
@@ -1267,6 +1382,7 @@
   {
     "nome": "Tesouro Prefixado com Juros Semestrais 2035",
     "data_inicio": "2024-02-07",
+    "data_conversao": "",
     "data_vencimento": "2035-01-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 13.67,
@@ -1276,8 +1392,9 @@
     "pu_base_manha": 822.44
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2049",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2030",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2030-01-15",
     "data_vencimento": "2049-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.28,
@@ -1287,8 +1404,9 @@
     "pu_base_manha": 1847.29
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2054",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2035",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2035-01-15",
     "data_vencimento": "2054-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.14,
@@ -1298,8 +1416,9 @@
     "pu_base_manha": 1323.88
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2059",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2040",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2040-01-15",
     "data_vencimento": "2059-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.06,
@@ -1309,8 +1428,9 @@
     "pu_base_manha": 949.63
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2064",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2045",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2045-01-15",
     "data_vencimento": "2064-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.02,
@@ -1320,8 +1440,9 @@
     "pu_base_manha": 679.62
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2069",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2050",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2050-01-15",
     "data_vencimento": "2069-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.02,
@@ -1331,8 +1452,9 @@
     "pu_base_manha": 482.41
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2074",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2055",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2055-01-15",
     "data_vencimento": "2074-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.04,
@@ -1342,8 +1464,9 @@
     "pu_base_manha": 340.09
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2079",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2060",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2060-01-15",
     "data_vencimento": "2079-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.07,
@@ -1353,8 +1476,9 @@
     "pu_base_manha": 238.37
   },
   {
-    "nome": "Tesouro Renda+ Aposentadoria Extra 2084",
+    "nome": "Tesouro Renda+ Aposentadoria Extra 2065",
     "data_inicio": "2023-01-30",
+    "data_conversao": "2065-01-15",
     "data_vencimento": "2084-12-15",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 7.07,
@@ -1366,6 +1490,7 @@
   {
     "nome": "Tesouro Selic 2005",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2005-02-16",
     "data_base": "2005-02-15",
     "taxa_compra_manha": 0.01,
@@ -1377,6 +1502,7 @@
   {
     "nome": "Tesouro Selic 2006",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2006-01-18",
     "data_base": "2006-01-17",
     "taxa_compra_manha": -0.02,
@@ -1388,6 +1514,7 @@
   {
     "nome": "Tesouro Selic 2007",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2007-01-17",
     "data_base": "2007-01-16",
     "taxa_compra_manha": -0.01,
@@ -1399,6 +1526,7 @@
   {
     "nome": "Tesouro Selic 2008",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2008-06-18",
     "data_base": "2008-06-17",
     "taxa_compra_manha": -0.07,
@@ -1410,6 +1538,7 @@
   {
     "nome": "Tesouro Selic 2009",
     "data_inicio": "2004-12-31",
+    "data_conversao": "",
     "data_vencimento": "2009-03-18",
     "data_base": "2009-03-17",
     "taxa_compra_manha": -0.01,
@@ -1421,6 +1550,7 @@
   {
     "nome": "Tesouro Selic 2010",
     "data_inicio": "2005-11-16",
+    "data_conversao": "",
     "data_vencimento": "2010-03-17",
     "data_base": "2010-03-16",
     "taxa_compra_manha": 0,
@@ -1432,6 +1562,7 @@
   {
     "nome": "Tesouro Selic 2011",
     "data_inicio": "2006-06-08",
+    "data_conversao": "",
     "data_vencimento": "2011-03-16",
     "data_base": "2011-03-09",
     "taxa_compra_manha": 0,
@@ -1443,6 +1574,7 @@
   {
     "nome": "Tesouro Selic 2012",
     "data_inicio": "2006-11-01",
+    "data_conversao": "",
     "data_vencimento": "2012-03-07",
     "data_base": "2012-03-06",
     "taxa_compra_manha": -0.01,
@@ -1454,6 +1586,7 @@
   {
     "nome": "Tesouro Selic 2013",
     "data_inicio": "2007-07-11",
+    "data_conversao": "",
     "data_vencimento": "2013-03-07",
     "data_base": "2013-03-06",
     "taxa_compra_manha": -0.01,
@@ -1465,6 +1598,7 @@
   {
     "nome": "Tesouro Selic 2013",
     "data_inicio": "2008-01-29",
+    "data_conversao": "",
     "data_vencimento": "2013-03-08",
     "data_base": "2008-02-19",
     "taxa_compra_manha": -0.02,
@@ -1476,6 +1610,7 @@
   {
     "nome": "Tesouro Selic 2014",
     "data_inicio": "2008-01-29",
+    "data_conversao": "",
     "data_vencimento": "2014-03-07",
     "data_base": "2014-03-06",
     "taxa_compra_manha": -0.01,
@@ -1487,6 +1622,7 @@
   {
     "nome": "Tesouro Selic 2015",
     "data_inicio": "2010-03-08",
+    "data_conversao": "",
     "data_vencimento": "2015-03-07",
     "data_base": "2015-03-06",
     "taxa_compra_manha": 0,
@@ -1498,6 +1634,7 @@
   {
     "nome": "Tesouro Selic 2017",
     "data_inicio": "2011-01-03",
+    "data_conversao": "",
     "data_vencimento": "2017-03-07",
     "data_base": "2017-03-06",
     "taxa_compra_manha": 0,
@@ -1509,6 +1646,7 @@
   {
     "nome": "Tesouro Selic 2021",
     "data_inicio": "2015-03-10",
+    "data_conversao": "",
     "data_vencimento": "2021-03-01",
     "data_base": "2021-02-26",
     "taxa_compra_manha": 0.07,
@@ -1520,6 +1658,7 @@
   {
     "nome": "Tesouro Selic 2023",
     "data_inicio": "2017-02-08",
+    "data_conversao": "",
     "data_vencimento": "2023-03-01",
     "data_base": "2023-02-28",
     "taxa_compra_manha": 0.03,
@@ -1531,6 +1670,7 @@
   {
     "nome": "Tesouro Selic 2024",
     "data_inicio": "2021-02-08",
+    "data_conversao": "",
     "data_vencimento": "2024-09-01",
     "data_base": "2024-08-30",
     "taxa_compra_manha": 0.05,
@@ -1542,6 +1682,7 @@
   {
     "nome": "Tesouro Selic 2025",
     "data_inicio": "2019-02-01",
+    "data_conversao": "",
     "data_vencimento": "2025-03-01",
     "data_base": "2025-02-28",
     "taxa_compra_manha": 0.02,
@@ -1553,6 +1694,7 @@
   {
     "nome": "Tesouro Selic 2026",
     "data_inicio": "2023-01-09",
+    "data_conversao": "",
     "data_vencimento": "2026-03-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 0.02,
@@ -1564,6 +1706,7 @@
   {
     "nome": "Tesouro Selic 2027",
     "data_inicio": "2021-02-08",
+    "data_conversao": "",
     "data_vencimento": "2027-03-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 0.02,
@@ -1575,6 +1718,7 @@
   {
     "nome": "Tesouro Selic 2028",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2028-03-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 0.04,
@@ -1586,6 +1730,7 @@
   {
     "nome": "Tesouro Selic 2029",
     "data_inicio": "2023-01-09",
+    "data_conversao": "",
     "data_vencimento": "2029-03-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 0.07,
@@ -1597,6 +1742,7 @@
   {
     "nome": "Tesouro Selic 2031",
     "data_inicio": "2025-02-03",
+    "data_conversao": "",
     "data_vencimento": "2031-03-01",
     "data_base": "2026-01-09",
     "taxa_compra_manha": 0.1,

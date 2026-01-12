@@ -1,0 +1,28 @@
+# Source CSV file
+precotaxatesourodireto.csv
+
+# Public directory
+public/
+
+# Compiled binaries
+/update
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Temporary files
+*.tmp
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work

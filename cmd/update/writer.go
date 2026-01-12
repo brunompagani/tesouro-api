@@ -58,7 +58,7 @@ func writeCSV(records []Record, path string) error {
 	writer.Comma = ';'
 
 	// Write header
-	header := []string{"Nome", "Data Inicio", "Data Vencimento", "Data Base", "Taxa Compra Manha", "Taxa Venda Manha", "PU Compra Manha", "PU Venda Manha", "PU Base Manha"}
+	header := []string{"Nome", "Data Inicio", "Data Conversao", "Data Vencimento", "Data Base", "Taxa Compra Manha", "Taxa Venda Manha", "PU Compra Manha", "PU Venda Manha", "PU Base Manha"}
 	if err := writer.Write(header); err != nil {
 		os.Remove(tmpPath)
 		return err
@@ -69,6 +69,7 @@ func writeCSV(records []Record, path string) error {
 		row := []string{
 			rec.Nome,
 			rec.DataInicio,
+			rec.DataConversao,
 			rec.DataVencimento,
 			rec.DataBase,
 			formatFloatBR(rec.TaxaCompraManha),

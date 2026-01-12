@@ -137,13 +137,44 @@ func parseRecord(row []string) (Record, error) {
 		return rec, fmt.Errorf("failed to parse PU Base Manha: %w", err)
 	}
 
-	// Compute combined name: tipo_titulo + year from data_vencimento
-	// Extract year from ISO date (yyyy-mm-dd format)
-	if len(rec.DataVencimento) >= 4 {
-		year := rec.DataVencimento[:4]
-		rec.Nome = rec.tipoTitulo + " " + year
+	// Compute combined name: tipo_titulo + year
+	// For "Tesouro Renda+ Aposentadoria Extra", use conversion year (maturity year - 19)
+	// For "Tesouro Educa+", use conversion year (maturity year - 4)
+	// Conversion date is always January 15th, maturity is December 15th
+	// For other bonds, use maturity year
+	maturityDate, err := time.Parse("2006-01-02", rec.DataVencimento)
+	if err == nil {
+		if rec.tipoTitulo == "Tesouro Renda+ Aposentadoria Extra" {
+			// Calculate conversion date: January 15th, year = maturity year - 19
+			convYear := maturityDate.Year() - 19
+			conversionDate := time.Date(convYear, 1, 15, 0, 0, 0, 0, time.UTC)
+			rec.DataConversao = conversionDate.Format("2006-01-02")
+			year := conversionDate.Format("2006")[:4]
+			rec.Nome = rec.tipoTitulo + " " + year
+		} else if rec.tipoTitulo == "Tesouro Educa+" {
+			// Calculate conversion date: January 15th, year = maturity year - 4
+			convYear := maturityDate.Year() - 4
+			conversionDate := time.Date(convYear, 1, 15, 0, 0, 0, 0, time.UTC)
+			rec.DataConversao = conversionDate.Format("2006-01-02")
+			year := conversionDate.Format("2006")[:4]
+			rec.Nome = rec.tipoTitulo + " " + year
+		} else {
+			// For other bonds, use maturity year
+			if len(rec.DataVencimento) >= 4 {
+				year := rec.DataVencimento[:4]
+				rec.Nome = rec.tipoTitulo + " " + year
+			} else {
+				rec.Nome = rec.tipoTitulo // Fallback if date parsing failed
+			}
+		}
 	} else {
-		rec.Nome = rec.tipoTitulo // Fallback if date parsing failed
+		// Fallback to maturity year if date parsing fails
+		if len(rec.DataVencimento) >= 4 {
+			year := rec.DataVencimento[:4]
+			rec.Nome = rec.tipoTitulo + " " + year
+		} else {
+			rec.Nome = rec.tipoTitulo
+		}
 	}
 
 	return rec, nil

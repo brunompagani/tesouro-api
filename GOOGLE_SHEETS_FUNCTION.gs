@@ -23,7 +23,7 @@ function TESOURODIRETO(nome, campo, data_vencimento) {
   
   // Valid fields
   const validFields = [
-    'data_vencimento', 'data_base', 'data_inicio',
+    'data_vencimento', 'data_base', 'data_inicio', 'data_conversao',
     'taxa_compra_manha', 'taxa_venda_manha',
     'pu_compra_manha', 'pu_venda_manha', 'pu_base_manha'
   ];

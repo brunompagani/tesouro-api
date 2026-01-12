@@ -80,9 +80,11 @@ Install the `TESOURODIRETO()` custom function for easy access to bond data:
 ```
 
 **Parameters:**
-- `nome` (required): Bond name, e.g., "Tesouro IPCA+ 2035"
-- `campo` (required): Field to return - `data_vencimento`, `data_base`, `data_inicio`, `taxa_compra_manha`, `taxa_venda_manha`, `pu_compra_manha`, `pu_venda_manha`, `pu_base_manha`
+- `nome` (required): Bond name, e.g., "Tesouro IPCA+ 2035" or "Tesouro Renda+ Aposentadoria Extra 2049"
+- `campo` (required): Field to return - `data_vencimento`, `data_base`, `data_inicio`, `data_conversao`, `taxa_compra_manha`, `taxa_venda_manha`, `pu_compra_manha`, `pu_venda_manha`, `pu_base_manha`
 - `data_vencimento` (optional): Maturity date in ISO format (yyyy-mm-dd) to differentiate bonds with the same name
+
+**Note:** For "Tesouro Renda+ Aposentadoria Extra" bonds, the `nome` uses the conversion year (maturity year - 19) instead of the maturity year. For "Tesouro Educa+" bonds, the `nome` uses the conversion year (maturity year - 4) instead of the maturity year. The `data_conversao` field contains the conversion date (January 15th of the conversion year, when amortizations begin).
 
 ### Method 2: Import CSV
 
@@ -98,8 +100,9 @@ This will import the CSV data into your spreadsheet. You can then use QUERY or F
 
 ### CSV Schema
 
-- **Nome**: Combined bond name (e.g., "Tesouro IPCA+ 2035")
+- **Nome**: Combined bond name (e.g., "Tesouro IPCA+ 2035"). For "Tesouro Renda+ Aposentadoria Extra" and "Tesouro Educa+" bonds, uses conversion year instead of maturity year
 - **Data Inicio**: Start date - oldest Data Base date for this bond (ISO format: yyyy-mm-dd)
+- **Data Conversao**: Conversion date - when amortizations begin for "Tesouro Renda+ Aposentadoria Extra" bonds (January 15th, year = maturity year - 19) and "Tesouro Educa+" bonds (January 15th, year = maturity year - 4), empty for other bonds (ISO format: yyyy-mm-dd)
 - **Data Vencimento**: Maturity date (ISO format: yyyy-mm-dd)
 - **Data Base**: Latest reference date for the prices (ISO format: yyyy-mm-dd)
 - **Taxa Compra Manha**: Morning buy rate (PT-BR format: comma as decimal separator)
@@ -111,8 +114,9 @@ This will import the CSV data into your spreadsheet. You can then use QUERY or F
 ### JSON Schema
 
 The JSON output uses snake_case field names:
-- `nome`: Combined bond name (tipo_titulo + year)
+- `nome`: Combined bond name (tipo_titulo + year). For "Tesouro Renda+ Aposentadoria Extra" bonds, uses conversion year instead of maturity year
 - `data_inicio`: Start date - oldest Data Base date for this bond (ISO format: yyyy-mm-dd)
+- `data_conversao`: Conversion date - when amortizations begin for "Tesouro Renda+ Aposentadoria Extra" bonds (January 15th, year = maturity year - 19) and "Tesouro Educa+" bonds (January 15th, year = maturity year - 4), empty string for other bonds (ISO format: yyyy-mm-dd)
 - `data_vencimento`: Maturity date (ISO format: yyyy-mm-dd)
 - `data_base`: Latest reference date for the prices (ISO format: yyyy-mm-dd)
 - `taxa_compra_manha`: Morning buy rate (float)

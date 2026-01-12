@@ -28,6 +28,7 @@ Tesouro IPCA+;15/05/2035;22/12/2025;7,29;7,41;2374,37;2348,76;2348,76`,
 				assert.Equal(t, "Tesouro IPCA+ 2035", asset.record.Nome)
 				assert.Equal(t, "2035-05-15", asset.record.DataVencimento)
 				assert.Equal(t, "2025-12-22", asset.record.DataBase)
+				assert.Empty(t, asset.record.DataConversao) // Not a Renda+ Aposentadoria Extra bond
 				// Start date should be same as latest for single record
 				expectedDate, _ := time.Parse("2006-01-02", "2025-12-22")
 				assert.Equal(t, expectedDate, asset.dataBaseMin)

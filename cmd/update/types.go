@@ -8,8 +8,9 @@ const (
 )
 
 type Record struct {
-	Nome             string  `json:"nome"`              // Combined: tipo_titulo + year from data_vencimento
+	Nome             string  `json:"nome"`              // Combined: tipo_titulo + year (conversion year for Renda+ Aposentadoria Extra, maturity year otherwise)
 	DataInicio       string  `json:"data_inicio"`       // ISO format: yyyy-mm-dd (oldest Data Base for this bond)
+	DataConversao    string  `json:"data_conversao"`    // ISO format: yyyy-mm-dd (conversion date for Renda+ Aposentadoria Extra, empty otherwise)
 	DataVencimento   string  `json:"data_vencimento"`   // ISO format: yyyy-mm-dd
 	DataBase         string  `json:"data_base"`         // ISO format: yyyy-mm-dd (latest Data Base)
 	TaxaCompraManha  float64 `json:"taxa_compra_manha"`

@@ -32,10 +32,14 @@ Tesouro Prefixado;01/01/2008;22/12/2025;11,29;11,32;986,50;986,47;986,05`
 	require.NoError(t, err)
 	require.Len(t, latest, 3) // Three unique bonds (IPCA+ 2035, Selic 2010, Prefixado 2008 Jan and Apr are different)
 
-	// Convert to records and set DataInicio
 	records := make([]Record, 0, len(latest))
+	now := time.Now().UTC()
 	for _, asset := range latest {
 		asset.record.DataInicio = asset.dataBaseMin.Format("2006-01-02")
+		asset.record.Metadata = RecordMetadata{
+			Source:    defaultSource,
+			UpdatedAt: now.Format(time.RFC3339),
+		}
 		records = append(records, asset.record)
 	}
 	sortRecords(records)
@@ -56,6 +60,8 @@ Tesouro Prefixado;01/01/2008;22/12/2025;11,29;11,32;986,50;986,47;986,05`
 	assert.Equal(t, "2025-12-22", ipcaRecord.DataBase) // Latest
 	assert.Equal(t, "2024-12-22", ipcaRecord.DataInicio) // Oldest (start date)
 	assert.InDelta(t, 7.31, ipcaRecord.TaxaCompraManha, 0.01)
+	assert.Equal(t, defaultSource, ipcaRecord.Metadata.Source)
+	assert.NotEmpty(t, ipcaRecord.Metadata.UpdatedAt)
 
 	// Test JSON output
 	jsonPath := filepath.Join(tmpDir, "test.json")

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"time"
 )
 
 func main() {
@@ -37,10 +38,15 @@ func run(url, outDir string) error {
 		return fmt.Errorf("failed to parse CSV: %w", err)
 	}
 
-	// Convert to sorted slice and set DataInicio (start date)
 	records := make([]Record, 0, len(latest))
+	now := time.Now().UTC()
 	for _, asset := range latest {
 		asset.record.DataInicio = asset.dataBaseMin.Format("2006-01-02")
+		// Set metadata
+		asset.record.Metadata = RecordMetadata{
+			Source:    defaultSource,
+			UpdatedAt: now.Format(time.RFC3339),
+		}
 		records = append(records, asset.record)
 	}
 	sortRecords(records)

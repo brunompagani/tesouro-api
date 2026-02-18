@@ -124,6 +124,9 @@ The JSON output uses snake_case field names:
 - `pu_compra_manha`: Morning buy price (float)
 - `pu_venda_manha`: Morning sell price (float)
 - `pu_base_manha`: Morning base price (float)
+- `metadata`: Object containing:
+  - `source`: Source identifier (e.g., "tesouro_transparente")
+  - `updated_at`: ISO 8601 timestamp when this record was last updated
 
 All numeric values are floats, and dates are ISO strings (yyyy-mm-dd).
 
@@ -141,6 +144,3 @@ All numeric values are floats, and dates are ISO strings (yyyy-mm-dd).
 4. **Output**: Generates JSON and CSV files
 5. **Deployment**: Publishes to the `gh-pages` branch via GitHub Actions
 
-## License
-
-MIT

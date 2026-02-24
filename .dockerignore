@@ -1,0 +1,39 @@
+# Git
+.git
+.gitignore
+
+# Build artifacts
+update
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output directories
+public/
+*.tmp
+
+# Documentation
+*.md
+*.pdf
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+precotaxatesourodireto.csv
+
+# Docker
+Dockerfile*
+docker-compose.yml
+.dockerignore

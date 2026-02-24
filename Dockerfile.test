@@ -1,0 +1,15 @@
+FROM golang:1.26.0-alpine3.22
+
+WORKDIR /app
+
+# Copy go mod files
+COPY go.mod go.sum ./
+
+# Download dependencies
+RUN go mod download
+
+# Copy source code
+COPY cmd/ ./cmd/
+
+# Run tests
+CMD ["go", "test", "-v", "./cmd/update"]
